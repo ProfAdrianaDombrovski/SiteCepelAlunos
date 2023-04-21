@@ -14,7 +14,7 @@ body
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-color: #2d542d;
+    background-color: #1d861d;
     border-radius: 0px 0px 0px 150px;
     
     }
@@ -45,7 +45,7 @@ body
         display: flex;
         justify-content: center;
         align-items: center;
-        background-color: #2d542d;;
+        background-color:#316931;
         border-radius: 40px;
         margin-top: 40px;
     }
@@ -64,7 +64,7 @@ body
     
     .professores {
     
-        background-color: #2d542d;;
+        background-color:#1d861d;
         border-radius: 40px;
     }
     
